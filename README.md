@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @colinmcnicholl
-- 👀 I’m interested in Python, R, statistics, cycling amd motorcycle racing.
+- 👀 I’m interested in Python, R, statistics, cycling and motorcycle racing.
 - 🌱 I’m currently learning reursion, ggplot and tidyverse.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: colin.mcnicholl@gmail.com
